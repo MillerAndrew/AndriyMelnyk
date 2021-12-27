@@ -5,7 +5,7 @@ sub1="VARO"
 sub2="VARN"
 sub3="VARP"
 sub4="GR1"
-
+sub5="GR2"
 group="3"
 date=`date`
 mail="andrew@gmail.com"
